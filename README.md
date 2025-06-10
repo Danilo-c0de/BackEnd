@@ -3,7 +3,6 @@
 
 Este é o backend do projeto **Cardápio Digital**, desenvolvido com **Spring Boot** e banco de dados **MySQL**. Ele fornece uma API RESTful para gerenciar itens de um cardápio (como pratos, bebidas, etc), ideal para sistemas de restaurantes, lanchonetes ou delivery.
 
----
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -15,7 +14,6 @@ Este é o backend do projeto **Cardápio Digital**, desenvolvido com **Spring Bo
 - ✅ Lombok (para reduzir boilerplate)
 - ✅ Maven (gerenciador de dependências)
 
----
 
 ## ⚙️ Como rodar o projeto localmente
 
@@ -27,14 +25,12 @@ Este é o backend do projeto **Cardápio Digital**, desenvolvido com **Spring Bo
 - [Lombok](https://projectlombok.org/download)
 - IDE como Eclipse ou IntelliJ
 
----
 
 ### Passos
  
 
 ## 📦 Estrutura de Pastas (exemplo)
 
-\`\`\`
 src
 ├── main
 │   ├── java
@@ -48,9 +44,7 @@ src
 │       ├── application.properties
 │       └── static/
 └── test
-\`\`\`
 
----
 
 ## 🧪 Testes
 Use Postman para testar os metodos Get e Post
@@ -69,5 +63,6 @@ Fernanda Kipper | Dev
 https://www.youtube.com/watch?v=lUVureR5GqI
 
 ## 👨‍💻 Desenvolvedor
-Feito por Matheus Serafim da silva
-# BackEndV1
+
+Este projeto foi desenvolvido por:
+Danilo De Jesus Campos
