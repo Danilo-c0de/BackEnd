@@ -34,6 +34,7 @@ Etapas para rodar:
 ⚠️ As instruções detalhadas para rodar podem ser adicionadas aqui futuramente.
 
 📁 Estrutura de Diretórios (exemplo)
+
 css
 Copiar
 Editar
@@ -60,9 +61,12 @@ Você pode testar os endpoints usando o Postman:
 
 
 🎥 Referência utilizada
+
 Tutorial utilizado como base:
+
 Criando Aplicação Fullstack do Zero com Java Spring e React - Parte 1: Backend
 por Fernanda Kipper | Dev
+
 📺 https://www.youtube.com/watch?v=lUVureR5GqI
 
 👨‍💻 Autor
