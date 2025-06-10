@@ -30,6 +30,7 @@ Lombok
 IDE como IntelliJ IDEA ou Eclipse
 
 Etapas para rodar:
+
 ⚠️ As instruções detalhadas para rodar podem ser adicionadas aqui futuramente.
 
 📁 Estrutura de Diretórios (exemplo)
