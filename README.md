@@ -1,36 +1,41 @@
 
-# 🍽️ Cardápio Digital - Backend
+🍽️ Cardápio Digital - Backend
+Este repositório contém o backend do projeto Cardápio Digital, criado com Spring Boot e utilizando MySQL como banco de dados. A aplicação expõe uma API RESTful para o gerenciamento de itens de cardápio — como pratos, bebidas e demais produtos — sendo ideal para restaurantes, lanchonetes e serviços de delivery.
 
-Este é o backend do projeto **Cardápio Digital**, desenvolvido com **Spring Boot** e banco de dados **MySQL**. Ele fornece uma API RESTful para gerenciar itens de um cardápio (como pratos, bebidas, etc), ideal para sistemas de restaurantes, lanchonetes ou delivery.
+🚀 Tecnologias e Ferramentas
+✅ Java 21
 
+✅ Spring Boot 3.5.0
 
-## 🚀 Tecnologias Utilizadas
+✅ Spring Web (API REST)
 
-- ✅ Java 21
-- ✅ Spring Boot 3.5.0
-- ✅ Spring Web (API REST)
-- ✅ Spring Data JPA (Persistência)
-- ✅ MySQL Driver
-- ✅ Lombok (para reduzir boilerplate)
-- ✅ Maven (gerenciador de dependências)
+✅ Spring Data JPA (persistência de dados)
 
+✅ MySQL Driver
 
-## ⚙️ Como rodar o projeto localmente
+✅ Lombok (reduz o código repetitivo)
 
-### Pré-requisitos
+✅ Maven (gerenciador de dependências)
 
-- [Java 21+](https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html)
-- [Maven](https://maven.apache.org/)
-- [MySQL Server](https://dev.mysql.com/downloads/installer/)
-- [Lombok](https://projectlombok.org/download)
-- IDE como Eclipse ou IntelliJ
+⚙️ Como executar localmente
+Requisitos necessários:
+Java 21 ou superior
 
+Maven
 
-### Passos
- 
+MySQL Server
 
-## 📦 Estrutura de Pastas (exemplo)
+Lombok
 
+IDE como IntelliJ IDEA ou Eclipse
+
+Etapas para rodar:
+⚠️ As instruções detalhadas para rodar podem ser adicionadas aqui futuramente.
+
+📁 Estrutura de Diretórios (exemplo)
+css
+Copiar
+Editar
 src
 ├── main
 │   ├── java
@@ -44,25 +49,21 @@ src
 │       ├── application.properties
 │       └── static/
 └── test
+🧪 Testes com Postman
+Você pode testar os endpoints usando o Postman:
+
+🔹 Método GET
 
 
-## 🧪 Testes
-Use Postman para testar os metodos Get e Post
-
-#Metodo Get
-![image](https://github.com/user-attachments/assets/249cc95c-8302-471f-b5b2-3ee4bdd0fcb5)
-
-#Metodo Post
-![image](https://github.com/user-attachments/assets/316d3c3c-065c-4be4-849c-076b8fb7a1e7)
+🔹 Método POST
 
 
- 
-## Usado como referencia Video 
-1. Criando Aplicação Fullstack do Zero com Java Spring e React - Parte 1: Desenvolvimento do Backend
-Fernanda Kipper | Dev
-https://www.youtube.com/watch?v=lUVureR5GqI
+🎥 Referência utilizada
+Tutorial utilizado como base:
+Criando Aplicação Fullstack do Zero com Java Spring e React - Parte 1: Backend
+por Fernanda Kipper | Dev
+📺 https://www.youtube.com/watch?v=lUVureR5GqI
 
-## 👨‍💻 Desenvolvedor
+👨‍💻 Autor
+Desenvolvido por: Danilo De Jesus Campos
 
-Este projeto foi desenvolvido por:
-Danilo De Jesus Campos
